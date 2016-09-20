@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Division()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Division\r\n
+comment1.params=n1\ n2
+comment1.target=void\ getInfo(double,\ double)
+comment1.text=\r\n\ Description\:A\ method\ used\ for\ the\ user\ to\ input\ the\ numerator\ and\ denominator\r\n\ Input\:numerator\ (double)\ and\ denominator\ (double)\r\n\ Purpose\:To\ add\ the\ numerator\ and\ denominator\ into\ the\ system\r\n\ Example\:\ n1\=3,\ n2\=6\r\n
+comment2.params=
+comment2.target=void\ print()
+comment2.text=\r\n\ Description\:prints\ the\ answer\ to\ the\ division\r\n\ Purpose\:divides\ the\ numbers\ and\ prints\ the\ answer\r\n
+numComments=3
